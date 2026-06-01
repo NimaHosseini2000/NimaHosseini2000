@@ -1,4 +1,4 @@
-## About Me
+## Hi There
 
 I'm an AI/ML Engineer focused on building intelligent systems that combine machine learning fundamentals with modern generative AI applications.
 
